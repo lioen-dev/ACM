@@ -3,7 +3,7 @@
    <h1>
       ACM
    </h1>
-  ACM is a Terminal Based local account management tool for windows. It is written entirely in python, using the os library to run cmd commands, providing most of it's functionality.
+  ACM is a Terminal Based local account management tool for windows. It is written entirely in python, using the os library to run cmd commands, providing most of it's functionality. (net user is now broken due to extra steps required in deleting and creating users so don't use this anymore please)
 </div>
 <br>
 
